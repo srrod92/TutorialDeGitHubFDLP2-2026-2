@@ -1,0 +1,7 @@
+int vida = 100;
+
+public void HacerAlgo()
+{
+
+	Console.WriteLine("Hacemos algo");
+}
